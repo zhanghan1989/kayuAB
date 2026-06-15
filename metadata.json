@@ -1,0 +1,6 @@
+{
+  "name": "KayuAB",
+  "description": "気持ちいい音を奏でる水道管パズル、BB入荷・売買市場、PVP配管バトル、アチーブメント＆店舗評価ボードゲーム",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
